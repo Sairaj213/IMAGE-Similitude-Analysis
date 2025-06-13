@@ -1,7 +1,6 @@
-# 📷 Image Similarity Checker - Static Mathematical Approach
-<br>
-
-Image Similarity Matcher is a project that performs image comparisons using mathematical features rather than machine learning, it extracts the features such as color histograms, edge information, spatial moments, these features into a weighted high-dimensional space and computes similarity scores using measures like cosine similarity to determine how similar images are.
+# 📷 Image Similarity Check - Static Mathematical Approach
+<br> 
+A project pipeline that performs image comparisons using mathematical features rather than machine learning, it extracts the features such as color histograms, edge information, spatial moments, these features into a weighted high-dimensional space and computes similarity scores using measures like cosine similarity to determine how similar images are.
 <br>
 
 ## Project Definition
@@ -18,7 +17,7 @@ Instead of relying on deep learning models, this system uses classical computer 
 <br>
 
 ```markdown-tree
-image_similarity_checker/
+Image_Similitude_Analysis/
 ├── image_feature_extractor.py    # Extracts various features (color, texture, edge, spatial) from images.
 ├── high_dimensional_projector.py # Projects features into a weighted high-dimensional space.
 ├── similarity_calculator.py      # Contains similarity functions (cosine and Euclidean) and probability conversion.

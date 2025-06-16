@@ -133,3 +133,4 @@ Image_Similitude_Analysis/
 <br> 
 
 ![Figure_4.png](assets/Figure_4.png)  
+![Screenshot](assets/Screenshot.png)

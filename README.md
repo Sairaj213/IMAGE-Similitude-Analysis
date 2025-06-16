@@ -127,3 +127,9 @@ Image_Similitude_Analysis/
    - Adjust settings such as the number of images to retrieve.
    - Click the **Run Analysis** button.
    - The main area will display the detailed analysis along with visual comparisons between the query and matching images.
+<br> 
+     
+## Sample Output :
+<br> 
+
+![Figure_4.png](assets/Figure_4.png)  
